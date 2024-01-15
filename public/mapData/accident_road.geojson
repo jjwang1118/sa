@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "road": "桃園區中山路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3127,
+                    24.99531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road": "龜山區萬壽路二段"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3459,
+                    24.99844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road": "桃園區春日路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3108,
+                    25.01089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road": "中壢區中正路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2194,
+                    24.95512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road": "桃園區中正路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2952,
+                    25.0029
+                ]
+            }
+        }
+    ]
+}
